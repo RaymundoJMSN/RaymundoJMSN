@@ -11,9 +11,10 @@ Desenvolvedor de ferramentas para RPG — Tormenta 20, Foundry VTT e projetos op
 | Projeto | Descrição |
 |---------|-----------|
 | [**Arena Imperial T20**](https://github.com/RaymundoJMSN/arena-imperial-t20) | Gerador de encontros para Tormenta 20 · [▶ Abrir](https://arena.raynathus.com.br) |
-| [**T20 PDF Exporter**](https://github.com/RaymundoJMSN/t20-pdf-exporter) | Módulo Foundry VTT — exporta fichas T20 para PDF |
-| [**Foundry Bulk Exporter**](https://github.com/RaymundoJMSN/foundry-bulk-exporter) | Módulo Foundry VTT — exporta pastas e compêndios para ZIP |
-| [**Always HP – Tormenta 20**](https://github.com/RaymundoJMSN/always-hp-t20) | Módulo Foundry VTT — janela de dano/cura com tipos de dano, RD e modo PV/PM para T20 |
+| [**Tradução CoC7 PT-BR**](https://github.com/RaymundoJMSN/traducao-coc-core-pt-br) | Tradução pt-BR do Call of Cthulhu 7e para Foundry VTT — interface + compêndios via Babele · [▶ Abrir](https://foundryvtt.com/packages/traducao-coc-core-pt-br) |
+| [**T20 PDF Exporter**](https://github.com/RaymundoJMSN/t20-pdf-exporter) | Módulo Foundry VTT — exporta fichas T20 para PDF · [▶ Abrir](https://foundryvtt.com/packages/t20-pdf-exporter) |
+| [**Foundry Bulk Exporter**](https://github.com/RaymundoJMSN/foundry-bulk-exporter) | Módulo Foundry VTT — exporta pastas e compêndios para ZIP · [▶ Abrir](https://foundryvtt.com/packages/foundry-bulk-exporter) |
+| [**Always HP – Tormenta 20**](https://github.com/RaymundoJMSN/always-hp-t20) | Módulo Foundry VTT — janela de dano/cura com tipos de dano, RD e modo PV/PM para T20 · [▶ Abrir](https://foundryvtt.com/packages/always-hp-t20) |
 
 ---
 
