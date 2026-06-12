@@ -11,6 +11,7 @@ Desenvolvedor de ferramentas para RPG — Tormenta 20, Foundry VTT e projetos op
 | Projeto | Descrição |
 |---------|-----------|
 | [**Arena Imperial T20**](https://github.com/RaymundoJMSN/arena-imperial-t20) | Gerador de encontros para Tormenta 20 · [▶ Abrir](https://arena.raynathus.com.br) |
+| [**T20 Ficha Online**](https://github.com/RaymundoJMSN/t20-ficha-online) | Módulo Foundry VTT + serviço Node.js — fichas de Tormenta 20 acessíveis por site/celular (PWA, tempo real), mesmo com o mundo fechado |
 | [**Tradução CoC7 PT-BR**](https://github.com/RaymundoJMSN/traducao-coc-core-pt-br) | Tradução pt-BR do Call of Cthulhu 7e para Foundry VTT — interface + compêndios via Babele · [▶ Abrir](https://foundryvtt.com/packages/traducao-coc-core-pt-br) |
 | [**T20 PDF Exporter**](https://github.com/RaymundoJMSN/t20-pdf-exporter) | Módulo Foundry VTT — exporta fichas T20 para PDF · [▶ Abrir](https://foundryvtt.com/packages/t20-pdf-exporter) |
 | [**Foundry Bulk Exporter**](https://github.com/RaymundoJMSN/foundry-bulk-exporter) | Módulo Foundry VTT — exporta pastas e compêndios para ZIP · [▶ Abrir](https://foundryvtt.com/packages/foundry-bulk-exporter) |
